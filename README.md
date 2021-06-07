@@ -10,6 +10,13 @@
 
 <br>
 
+<p align="center">
+  <img alt="Device" src=".github/1.png" width="350">
+  <img alt="Device" src=".github/2.png" width="350">
+  <img alt="Device" src=".github/3.png" width="350">
+  <img alt="Device" src=".github/4.png" width="350">
+</p>
+
 
 ## ✨ Tecnologias
 
