@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ Júnior Chagas 👋🏻 [Participe da nossa comunidade!](https://github.com/chagas42)
+Feito com ♥ [Júnior Chagas](https://github.com/chagas42)
