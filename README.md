@@ -36,10 +36,25 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🚀 Como executar
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie seu app com `expo start`
-- Inicie a fake api com `json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700`. Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+```bash
+    
+    #Clonar o repositório
+    $ git clone https://github.com/chagas42/Plant_Manager_NLW5
+
+    #Entrar no diretório
+    $ cd Plant_Manager_NLW5
+
+    #Instalar as dependências 
+    $ yarn  
+
+    #Iniciar o projeto
+    $ expo start
+
+    #Inicie a fake api com 
+    $ json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700
+
+    #Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+```
 
 ## 📄 Licença
 
